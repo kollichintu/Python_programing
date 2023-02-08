@@ -1,0 +1,1 @@
+Files saved in tis folder are related to Python projects for beginner.
